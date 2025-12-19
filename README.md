@@ -53,5 +53,5 @@
 ---
 
 ### 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
-- 📧 Email: your@email.com
+- 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/yahwin-lukose-3a95732a4/)
+- 📧 Email: yahwinlukose@gmail.com
