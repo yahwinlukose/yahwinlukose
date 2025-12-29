@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yahwin">
-    <img src="https://komarev.com/ghpvc/?username=yahwin&style=for-the-badge&color=0f172a" alt="profile views"/>
+  <a href="https://github.com/yahwinlukose">
+    <img src="https://komarev.com/ghpvc/?username=yahwinlukose&style=for-the-badge&color=0f172a" alt="profile views"/>
   </a>
 </p>
 
@@ -37,19 +37,19 @@
 
 ### 🎮 The Contribution Snake
 <p align="center">
-  <img src="https://github.com/yahwin/yahwin/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/yahwinlukose/yahwinlukose/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
 ### 📊 Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yahwin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahwin&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yahwinlukose&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahwinlukose&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahwin&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahwinlukose&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
