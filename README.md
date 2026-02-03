@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0f172a&height=150&section=header&text=Yahwin%20Lukose&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f4a261&secondaryColor=e9c46a&height=200&section=header&text=Yahwin%20Lukose&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
