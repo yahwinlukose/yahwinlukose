@@ -1,64 +1,47 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=YAHWIN%20LUKOSE&fontSize=80&animation=fadeIn&fontAlignY=35&desc=The%20Backend%20Architect%20%7C%20AI%20Visionary&descAlignY=55&descSize=25" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0f172a&height=150&section=header&text=Yahwin%20Lukose&fontSize=50" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World%22);Developing+the+Future+with+AI;Mastering+Clean+Code;Software+Engineer+in+the+making" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Backend+Development;AI+%26+Machine+Learning;Building+Scalable+Solutions" alt="Typing SVG" />
 </p>
 
 ---
 
-### ⚡ Quick Status
+### 💻 Technical Focus
+- **Current Learning** | Deepening knowledge in C (Data Structures) and Python (Backend/AI).
+- **Core Principles** | Prioritizing logic, efficiency, and maintainable code.
+
+---
+
+### 🧰 Tech Stack
 <p align="center">
-  <a href="https://github.com/yahwinlukose">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yahwinlukose&repo=Malloc-Maze&theme=tokyonight&show_owner=true" />
-  </a>
-  <a href="https://github.com/yahwinlukose">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yahwinlukose&repo=BinWise&theme=tokyonight&show_owner=true" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,flask,mysql,tensorflow,html,css,git,linux,docker&perline=6" />
 </p>
 
 ---
 
-### 👨‍💻 Engineering Philosophy
-- 🌌 **The Stack** | Focused on high-performance C, Python scalability, and AI integration.
-- 🏗 **Clean Architecture** | Writing code that isn't just functional, but an art form.
-- 🧬 **Next-Gen AI** | Transforming raw data into intelligent, actionable insights.
-
----
-
-### 🛠 Automated Skill Matrix
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,git,flask,tensorflow,mysql,linux,docker&perline=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yahwinlukose&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahwinlukose&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahwinlukose&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📈 God-Level Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yahwinlukose&show_icons=true&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahwinlukose&layout=compact&theme=nightowl&hide_border=false" height="195"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahwinlukose&theme=nightowl&hide_border=false" />
-</p>
-
----
-
-### 🐍 The Contribution Grid
+### 🐍 Contribution Flow
 <p align="center">
   <img src="https://raw.githubusercontent.com/yahwinlukose/yahwinlukose/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
 
-### 📫 Let's Build Something Legendary
+### 📫 Contact
 <p align="center">
-<a href="https://www.linkedin.com/in/yahwin-lukose-3a95732a4/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:yahwinlukose@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<a href="https://www.linkedin.com/in/yahwin-lukose-3a95732a4/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:yahwinlukose@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
